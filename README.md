@@ -19,7 +19,7 @@
 - 🎓 B.Tech CSE (AI & ML) at Graphic Era University
 - 🔭 Learning **CUDA** and writing my own GPU kernels
 - 🧠 Into computer vision, transformers and RL environments for LLM agents
-- 🏆 1st place, Neural Nexus 2025
+- 🏆 1st place, Neural Nexus 2024
 
 <br>
 
