@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="200" height="200" alt="bull_1024" src="https://github.com/user-attachments/assets/8f6467ec-4c16-4579-82f3-322917d61e38" />
+<img width="240" height="240" alt="bull_1024" src="https://github.com/user-attachments/assets/bc198925-21da-4158-9566-740c0ed75e5b" />
 
 # Apoorva Badoni
 
