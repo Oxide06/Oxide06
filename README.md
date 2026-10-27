@@ -1,6 +1,8 @@
 <div align="center">
 
 <img src="bull_circle.gif" width="256" alt="Pixel-art bull drinking from a mug" >
+<br>
+<sub>Pixel art by me, made in Aseprite</sub>
 
 # Apoorva Badoni
 
