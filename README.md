@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="bull_circle.gif" width="256" alt="Pixel-art bull drinking from a mug" >
+<img width="448" height="256" alt="bull_dialogue" src="https://github.com/user-attachments/assets/6236ec59-6a94-4ee8-b2d5-c9e80e03b5b6" />
 <br>
 <sub>Pixel art by me, made in Aseprite</sub>
 
