@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="bull_1024.gif" width="256" alt="Pixel-art bull drinking from a mug" style="border-radius: 50%; object-fit: cover;">
+<img src="bull_circle.gif" width="256" alt="Pixel-art bull drinking from a mug" >
 
 # Apoorva Badoni
 
